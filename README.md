@@ -168,7 +168,7 @@ Feel free to use, modify, and share it with proper credit.
 ## 📬 Contact
 
 **Developer:** Souvik  
-📧 Email: *add your contact email here*  
+📧 Email: work03.souvik@gmail.com  
 🔗 GitHub: [souvik082003](https://github.com/souvik082003)
 
 ---
